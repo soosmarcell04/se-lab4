@@ -1,0 +1,4 @@
+# Mindkettő meghibasodik
+GT4500,5,1.0,5,1.0
+TORPEDO,ALL
+EXIT
